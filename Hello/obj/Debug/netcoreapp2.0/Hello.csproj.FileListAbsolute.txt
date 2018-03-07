@@ -1,0 +1,10 @@
+/home/allan/Área de Trabalho/Hello/bin/Debug/netcoreapp2.0/Hello.deps.json
+/home/allan/Área de Trabalho/Hello/bin/Debug/netcoreapp2.0/Hello.runtimeconfig.json
+/home/allan/Área de Trabalho/Hello/bin/Debug/netcoreapp2.0/Hello.runtimeconfig.dev.json
+/home/allan/Área de Trabalho/Hello/bin/Debug/netcoreapp2.0/Hello.dll
+/home/allan/Área de Trabalho/Hello/bin/Debug/netcoreapp2.0/Hello.pdb
+/home/allan/Área de Trabalho/Hello/obj/Debug/netcoreapp2.0/Hello.csproj.CoreCompileInputs.cache
+/home/allan/Área de Trabalho/Hello/obj/Debug/netcoreapp2.0/Hello.AssemblyInfoInputs.cache
+/home/allan/Área de Trabalho/Hello/obj/Debug/netcoreapp2.0/Hello.AssemblyInfo.cs
+/home/allan/Área de Trabalho/Hello/obj/Debug/netcoreapp2.0/Hello.dll
+/home/allan/Área de Trabalho/Hello/obj/Debug/netcoreapp2.0/Hello.pdb
